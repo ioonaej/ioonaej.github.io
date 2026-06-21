@@ -1,6 +1,6 @@
 ---
 title: "Histour 개발기: 역사 인물과 대화하는 AI 채팅 서비스를 만들며 고민한 것들"
-date: 2026-06-21 12:00:00 +0900
+date: 2026-06-20 12:00:00 +0900
 categories: [Project, Capstone]
 tags: [histour, ai, chatbot, openai, prompt-engineering, nextjs]
 ---
