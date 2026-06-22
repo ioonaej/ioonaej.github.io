@@ -126,25 +126,9 @@ const t = lang === "en" ? heroCopy.en : heroCopy.ko;
 
 아래는 영어를 선택했을 때 관광지 목록 화면이 영어로 표시되는 모습이다.
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px; align-items: start;">
-
-<div>
-
-![영어 메인 화면](/assets/img/histour/home-en.png)
-
-<p align="center"><em>영어 메인 화면</em></p>
-
-</div>
-
-<div>
-
-![영어 관광지 리스트](/assets/img/histour/en-list.png)
-
-<p align="center"><em>영어 관광지 리스트</em></p>
-
-</div>
-
-</div>
+| 영어 메인 화면 | 영어 관광지 리스트 |
+| --- | --- |
+| ![](/assets/img/histour/home-en.png) | ![](/assets/img/histour/en-list.png) |
 
 메인 화면뿐만 아니라 관광지 이름, 설명, 추천 포인트, 버튼 문구 등 사용자가 탐색 과정에서 접하는 주요 UI를 선택한 언어에 맞춰 제공하도록 구성했다.
 
